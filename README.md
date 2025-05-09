@@ -33,35 +33,35 @@ Rcompanion, rstatix, PMCMRplus, vegan
 
 Zur ersten Orientierung und Analyse der Verteilungen und Zusammenhänge wurden folgende grafische und statistische Methoden eingesetzt:
 
-Gruppierte Balkendiagramme (Barcharts)
+- Gruppierte Balkendiagramme (Barcharts)
 
-Histogramme
+- Histogramme
 
-QQ-Plots
+- QQ-Plots
 
-Boxplots & Symmetry Boxplots
+- Boxplots & Symmetry Boxplots
 
-Korrelationsmatrix
+- Korrelationsmatrix
 
 ### Testverfahren
 
-Parametrische Verfahren
-t-Test (Mittelwertvergleiche)
+**Parametrische Verfahren:**
+- t-Test (Mittelwertvergleiche)
 
-Grubbs-Test (Ausreißererkennung)
+- Grubbs-Test (Ausreißererkennung)
 
-Bartlett-Test (Varianzhomogenität)
+- Bartlett-Test (Varianzhomogenität)
 
-Shapiro-Wilk-Test (Normalverteilung)
+- Shapiro-Wilk-Test (Normalverteilung)
 
-Nicht-parametrische Verfahren
-Unabhängigkeitstest
+**Nicht-parametrische Verfahren:**
+- Unabhängigkeitstest
 
-Wilcoxon-Test
+- Wilcoxon-Test
 
-Scheirer-Ray-Hare-Test
+- Scheirer-Ray-Hare-Test
 
-PERMANOVA (Permutationale multivariate Varianzanalyse)
+- PERMANOVA (Permutationale multivariate Varianzanalyse)
 
 ## 📊 Projektergebnisse
 Alle Analysen wurden sorgfältig dokumentiert und sind im Jupyter Notebook nachvollziehbar.
