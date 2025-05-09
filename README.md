@@ -1,6 +1,6 @@
 # Projekt: Statistische Analyse für die Techno GmbH
 
-## 🏢 Projektbeschreibung
+## Projektbeschreibung
 
 Die **Techno GmbH** möchte sich in wirtschaftlich herausfordernden Zeiten zukunftsorientiert aufstellen. Dafür benötigt das Unternehmen fundierte Erkenntnisse über potenzielle Veränderungsmöglichkeiten innerhalb verschiedener Geschäftsbereiche.
 
@@ -15,12 +15,12 @@ Die Datenauswertung erfolgte mithilfe **deskriptiver Statistik** und verschieden
 
 ---
 
-## 🛠️ Arbeitsumgebung
+## Arbeitsumgebung
 
 - **Sprache:** R  
 - **Umgebung:** Jupyter Notebook
 
-### 📦 Verwendete R-Pakete
+### Verwendete R-Pakete
 
 ```r
 Rcmdr, BSDA, outliers, readxl, dplyr, ggplot2, tidyr, RcmdrMisc,
@@ -29,7 +29,7 @@ Rcompanion, rstatix, PMCMRplus, vegan
 
 ## Methodenübersicht
 
-### 📈Deskriptive Statistik
+### Deskriptive Statistik
 
 Zur ersten Orientierung und Analyse der Verteilungen und Zusammenhänge wurden folgende grafische und statistische Methoden eingesetzt:
 
@@ -43,7 +43,7 @@ Boxplots & Symmetry Boxplots
 
 Korrelationsmatrix
 
-### 🧪 Testverfahren
+### Testverfahren
 
 Parametrische Verfahren
 t-Test (Mittelwertvergleiche)
