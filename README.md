@@ -63,6 +63,6 @@ Zur ersten Orientierung und Analyse der Verteilungen und Zusammenhänge wurden f
 
 - PERMANOVA (Permutationale multivariate Varianzanalyse)
 
-## 📊 Projektergebnisse
+## Projektergebnisse
 Alle Analysen wurden sorgfältig dokumentiert und sind im Jupyter Notebook nachvollziehbar.
 Die Ergebnisse der statistischen Analysen ermöglichen es dem Unternehmen, datenbasierte Entscheidungen in Bezug auf Effizienzsteigerung, Prozessverbesserung und Ressourceneinsatz zu treffen.
